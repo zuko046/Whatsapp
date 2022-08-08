@@ -8,7 +8,7 @@ body{
     height: 91px;
     display: block;
     position: fixed;
-    z-index: 1;
+    z-index: -1;
 }
 .menubar{
     padding-left: 234px;
